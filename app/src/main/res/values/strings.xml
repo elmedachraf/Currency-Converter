@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mon Convertisseur</string>
+    <string name="btn_convertir">Convertir</string>
+    <string name="str_hint_saisie">100€</string>
+    <string name="str_hint_saisie2">97,82$</string>
+
+</resources>
